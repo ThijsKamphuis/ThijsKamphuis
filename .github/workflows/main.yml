@@ -18,3 +18,6 @@ jobs:
           config_timezone: Europe/Paris
           base: header, repositories
           plugin_lines: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines,percentage

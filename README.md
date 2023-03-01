@@ -1,1 +1,1 @@
-Thijs Kamphuis
+![Metrics](/github-metrics.svg)

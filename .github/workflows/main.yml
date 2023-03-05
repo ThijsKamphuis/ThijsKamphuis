@@ -22,3 +22,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines,percentage
           plugin_languages_colors: python:#3572A5, c++:#f34b7d, javascript:#f1e05a
+          plugin_languages_other: yes
+          plugin_languages_categories: data, markup, programming, prose
+          
+          

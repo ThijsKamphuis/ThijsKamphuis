@@ -25,5 +25,5 @@ jobs:
           plugin_languages_categories: data, programming
           plugin_languages_limit: 4
           plugin_languages_ignored: Dotenv, markdown, json
-          plugin_languages_colors: javascript:#f1e05a,
+          plugin_languages_colors: javascript:pink,
           
